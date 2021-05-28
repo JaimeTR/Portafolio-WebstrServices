@@ -3,7 +3,7 @@
 
 ### Link para previsualizar las paginas web
 
-+ [Digicorp-starter](target="_blank" "https://jaimetr.github.io/Digicorp-starter/")
++ [Digicorp-starter] <target="_blank"> (https://jaimetr.github.io/Digicorp-starter/)
 + [Execution-Starter](https://jaimetr.github.io/Execution-Starter/)
 + [PoochCare-Starter](https://jaimetr.github.io/PoochCare-Starter/)
 + [Corpish-starter](https://jaimetr.github.io/Corpish-starter/)
